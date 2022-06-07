@@ -1,0 +1,7 @@
+C:\Users\Alumnos\source\repos\ConsoleGitHub\ConsoleGitHub\bin\Debug\ConsoleGitHub.exe.config
+C:\Users\Alumnos\source\repos\ConsoleGitHub\ConsoleGitHub\bin\Debug\ConsoleGitHub.exe
+C:\Users\Alumnos\source\repos\ConsoleGitHub\ConsoleGitHub\bin\Debug\ConsoleGitHub.pdb
+C:\Users\Alumnos\source\repos\ConsoleGitHub\ConsoleGitHub\obj\Debug\ConsoleGitHub.csprojAssemblyReference.cache
+C:\Users\Alumnos\source\repos\ConsoleGitHub\ConsoleGitHub\obj\Debug\ConsoleGitHub.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\source\repos\ConsoleGitHub\ConsoleGitHub\obj\Debug\ConsoleGitHub.exe
+C:\Users\Alumnos\source\repos\ConsoleGitHub\ConsoleGitHub\obj\Debug\ConsoleGitHub.pdb
